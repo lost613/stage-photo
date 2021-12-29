@@ -1,0 +1,19 @@
+{
+  "name": "stage-photo",
+  "version": "1.0.0",
+  "description": "generate stage photo from video",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lost613/stage-photo.git"
+  },
+  "author": "lost613",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lost613/stage-photo/issues"
+  },
+  "homepage": "https://github.com/lost613/stage-photo#readme"
+}
